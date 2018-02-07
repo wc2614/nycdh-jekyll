@@ -20,4 +20,4 @@ In _italics_
   1. Ordered sub-list
 4. And another item.
 
-[Google](https://wwww.google.com)
+[Google](https://www.google.com)
