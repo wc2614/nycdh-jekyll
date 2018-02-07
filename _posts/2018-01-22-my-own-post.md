@@ -1,4 +1,4 @@
----
+s---
 layout: post
 title:  "Writing My Own Post"
 date:   2018-01-22
@@ -20,4 +20,4 @@ In _italics_
   1. Ordered sub-list
 4. And another item.
 
-[Google](http://wwww.google.com)
+[Google](https://wwww.google.com)
