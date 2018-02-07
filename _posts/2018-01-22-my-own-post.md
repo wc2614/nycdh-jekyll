@@ -10,7 +10,7 @@ categories: [ one, two, three ]
 # Heading 1
 I'm **bold**
 In _italics_
-**Combine_boldtalics_**
+**_boldtalics_**
 ~~Strikethrough~~
 
 1. List element A
