@@ -6,6 +6,9 @@ categories: [ one, two, three ]
 ---
 
 ## Apply your markdown knowledge!
+{% for category in page.categories %}
+ {{ category }}
+{% endfor %}
 
 # Heading 1
 I'm **bold**
